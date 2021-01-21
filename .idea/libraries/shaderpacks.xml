@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="shaderpacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shaderpacks/BSL_v7.2.01pre1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/ComplementaryShaders_3.09.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/Sora_Shaders_1.12.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

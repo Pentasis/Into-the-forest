@@ -1,0 +1,691 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rem",
+				"removableMetalIngots"
+			],
+			[
+				"SetC",
+				"SetCapsLockState"
+			],
+			[
+				"Laun",
+				"Launch_App2"
+			],
+			[
+				"La",
+				"Launch_App1"
+			],
+			[
+				"Br",
+				"Browser_Home"
+			],
+			[
+				"Vol",
+				"Volume_Up"
+			],
+			[
+				"Volu",
+				"Volume_Down"
+			],
+			[
+				"Media",
+				"Media_Play_Pause"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ore_smelting.js",
+			"settings":
+			{
+				"buffer_size": 1903,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "metal_reclaiming.js",
+			"settings":
+			{
+				"buffer_size": 482,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "metal_compacting.js",
+			"settings":
+			{
+				"buffer_size": 2248,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ore_processing.js",
+			"settings":
+			{
+				"buffer_size": 3245,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/constants/gems.js",
+			"settings":
+			{
+				"buffer_size": 910,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"vm",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 276.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/tellme",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/assets",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/assets/kubejs",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/assets/minecraft",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/assets/minecraft/lang",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/client_scripts",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/exported",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/exported/tags",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/constants",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/ceramics",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/items",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/ores",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/wood",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/startup_scripts",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/logs/kubejs"
+	],
+	"file_history":
+	[
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/tags.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/ores/metal_alloys.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/logs/kubejs/server.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/ores/ore_processing.js",
+		"/C/Users/Bert/AppData/Local/Temp/7zO490325B7/ore_copper.json",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/ores/ore_processing_1.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/remove.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/startup_scripts/custom_items_blocks.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/constants/metals.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/ores/const_metals.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/ores/metal_compacting.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/buildersaddition-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/appleskin-client.toml",
+		"/C/Users/Bert/AppData/Local/Temp/7zO0D316A5A/brass.json",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/startup_scripts/ore_gen.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/quark-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/assets/minecraft/lang/en_us.json",
+		"/D/Desktop/Modpack.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/defaultconfigs/immersiveengineering-server.toml",
+		"/C/Users/Bert/AppData/Local/Temp/7zO496CF4A8/titanium_shovel_recipe.json",
+		"/C/Users/Bert/AppData/Local/Temp/7zO49635367/titanium_ingot_recipe.json",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/New World 88/serverconfig/charcoal_pit-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/New World 88/serverconfig/notreepunching-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/functions.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/stone/const_stones.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/wood/const_wood.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/abnormals_core-client.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/exported/tags/blocks.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/bottleyourxp-common.toml",
+		"/C/Users/Bert/AppData/Local/Temp/7zO8B798482/cracked_nether_bricks.json",
+		"/C/Users/Bert/AppData/Local/Temp/7zO8B78AC31/warped_sign_from_warped_planks.json",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/constants.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/ores/ore_smelting.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/ores/metal_grinding.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/ores/ore_washing.js",
+		"/C/Users/Bert/AppData/Local/Temp/7zO83D93603/terracotta.json",
+		"/C/Users/Bert/AppData/Local/Temp/7zO83DC4AA3/cornflower.json",
+		"/C/Users/Bert/AppData/Roaming/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/pressure/metal_compacting.js",
+		"/C/Users/Bert/AppData/Local/Temp/7zO80768F96/ingot_lead_compat_immersiveengineering.json",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/grinding/ores.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/mixing/ores.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/heating/ores.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/pressure/ores.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/ore_processing/remove.js",
+		"/C/Users/Bert/AppData/Local/Temp/7zO48E5123D/andesite_from_flint.json",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/tellme/recipe-types_2021-01-14_10.41.09.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/recipes/washing/ores.js",
+		"/C/Users/Bert/AppData/Local/Temp/7zO08C91390/crushed_gold_ore.json",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/client_scripts/hide.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/README.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/imm_ptl_state.json",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/.mixin.out/audit/mixin_implementation_report.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/New World66/serverconfig/inspirations-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/New World66/serverconfig/immersiveengineering-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/New World66/serverconfig/create-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/settings.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/ore_processing/add.js",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/New World66/serverconfig/commoncapabilities-server.toml",
+		"/C/Users/Bert/AppData/Local/Temp/7zO09F6CA80/uranium_ore.json",
+		"/C/Users/Bert/AppData/Local/Temp/7zO49568342/crystalized_menril_block.json",
+		"/C/Users/Bert/AppData/Local/Temp/7zO4527C433/black.json",
+		"/C/Users/Bert/AppData/Local/Temp/7zOC9D22C70/bricks.json",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/atmospheric-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/silentgear-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/terraforged/biome_weights.conf",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/tellme/biomes-basic_2021-01-14_10.39.07.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/tellme/recipe-serializers_2021-01-14_10.40.22.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/randompatches.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/logs/latest.log",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/logs/debug.log",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/dumps/dump-1608982285687.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/exported/tags/functions.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/scripts/crafttweaker.log",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/xaerominimap.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/scripts/pentaclia.zs",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/spatialharvesters-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/logs/crafttweaker.log",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/engineersdecor-client.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/storagedrawers-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/Pentaclia/serverconfig/engineersdecor-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/immersiveengineering-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/immersiveposts-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/Pentaclia/serverconfig/immersiveengineering-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/chiselsandbits-client.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/keeptherain-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/integrateddynamics-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/lightoverlay.properties",
+		"/C/Users/Bert/AppData/Local/Temp/7zOCB4E7191/2021-01-02-2.log",
+		"/C/Users/Bert/AppData/Local/Temp/7zO05A1C450/2021-01-03-1.log",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/integrateddynamics-client.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/upstream/upstream-noise.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/upstream/upstream-rivers.json",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/TestC/serverconfig/commoncapabilities-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/TestC/serverconfig/integratedtunnels-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/TestC/serverconfig/integratedterminals-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/TestC/serverconfig/integrateddynamics-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/ct_dumps/item.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/waystones-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/mods/list.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/sophisticatedbackpacks-client.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/attributefix-common.toml",
+		"/D/Desktop/mods.toml",
+		"/C/Users/Bert/AppData/Local/Temp/7zO8A3410B7/mods.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/Pentaclia III/serverconfig/inspirations-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/crash-reports/crash-2021-01-02_10.12.02-fml.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/inspirations-client.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/crash-reports/crash-2021-01-02_11.08.48-fml.txt",
+		"/C/Games/Minecraft/Overwolf/Instances/Tests/config/terraforged/general.conf",
+		"/C/Games/Minecraft/Overwolf/Instances/Tests/config/terraforged/performance.conf",
+		"/C/Games/Minecraft/Overwolf/Instances/Tests/config/terraforged/biome_weights.conf",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/shulkerdt-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/nomowanderer-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/environmentalcreepers.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/Pentaclia/serverconfig/pamhc2trees.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/charm-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/pamhc2trees.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/saves/Pentaclia/serverconfig/integrateddynamics-server.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/options.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/optionsof.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/ct_dumps/effect.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/ct_dumps/directionaxis.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/ct_dumps/recipetype.txt",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/integratedtunnels-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/integratedterminals-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/dsurround/dsurround-client.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/commoncapabilities-common.toml",
+		"/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/config/cyclopscore-common.toml"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 412.0,
+		"where_history":
+		[
+			"<project>",
+			"C:\\Games\\Minecraft\\MultiMC\\instances\\1.16.4\\.minecraft\\config",
+			"C:\\Games\\Minecraft\\MultiMC\\instances\\1.16.3\\.minecraft\\config",
+			"C:\\Games\\Minecraft\\MultiMC\\instances\\1.16.3\\.minecraft\\config\\Mekanism",
+			"C:\\Games\\steamapps\\common\\Crusader Kings III\\game\\common",
+			"C:\\Games\\steamapps\\common\\Crusader Kings III\\game\\history",
+			"C:\\Games\\steamapps\\common\\Crusader Kings III\\game\\events",
+			"C:\\Games\\steamapps\\common\\Crusader Kings III\\game\\common",
+			"C:\\Games\\steamapps\\workshop\\content\\1158310",
+			"C:\\Games\\steamapps\\common\\Crusader Kings III\\game\\common\\scripted_effects",
+			"C:\\Games\\steamapps\\common\\Crusader Kings III\\game\\common",
+			"C:\\Games\\steamapps\\workshop\\content\\1158310\\2221348737",
+			"C:\\Games\\steamapps\\workshop\\content\\1158310"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gems",
+			"Err",
+			"slag",
+			"sand",
+			"clump",
+			"_clump",
+			"cluster",
+			"_cluster",
+			"chiseled",
+			"marble",
+			"gabb",
+			"chiseled",
+			"marble",
+			"planks",
+			"rare",
+			"woodcutter",
+			"brass",
+			"_ore",
+			"create:crushed",
+			"nugget",
+			", 8",
+			", 4",
+			"creat_",
+			"ingot",
+			"ores",
+			"chunk",
+			"copper",
+			"copper_ore",
+			"seed",
+			"recipe",
+			" ",
+			"sound",
+			"minesh",
+			"version",
+			"minesh",
+			"green",
+			"harvest",
+			"spawn",
+			"spawner",
+			"mineshaft",
+			"shaft",
+			"trees",
+			"sound",
+			"volume",
+			"health",
+			"BASE_HEALTH",
+			"holding",
+			"family",
+			"grandchild",
+			"grandfather",
+			"can_marry_trigger",
+			"marry",
+			"marriage",
+			"AGE_OF_MARRIAGE_FEMALE",
+			"MIN_FEMALE_REPRODUCTION_AGE",
+			"sex",
+			"had_sex",
+			"random",
+			"or =",
+			"make",
+			"rng",
+			"rnd",
+			"random",
+			"chance",
+			"preg",
+			"ncharacter",
+			"retreat",
+			"health"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dirty dust",
+			"_dust_dirty",
+			"clump",
+			"_clump",
+			"",
+			"immersiveengineering:dust",
+			"ingot",
+			"",
+			", 8",
+			"create:",
+			"nugget",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ore_smelting.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								114
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "metal_reclaiming.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "metal_compacting.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								90
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ore_processing.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3240,
+								3240
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1245.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Games/Minecraft/MultiMC/instances/1.16.4/.minecraft/kubejs/server_scripts/constants/gems.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								757,
+								757
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 140.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 126.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "temp.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 380.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

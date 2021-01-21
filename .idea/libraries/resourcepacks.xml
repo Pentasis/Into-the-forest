@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="resourcepacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Better leaves bush 1.16.2+.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Better Rails 1.16.4-1.2.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Quark Programmer Art.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Abnormal Bushy Leaves - 1.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/ComplementaryResources 3.09.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

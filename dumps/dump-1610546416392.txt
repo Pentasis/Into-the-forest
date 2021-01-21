@@ -1,0 +1,10 @@
+Section             Count      Time MS    Min MS     Max MS     Average MS
+structure_starts    5867       19117      0          6003       3.26
+structure_refs      3339       382        0          64         0.11
+biomes              3339       2082       0          751        0.62
+terrain             3338       8640       1          166        2.59
+surface             3338       2341       0          37         0.70
+carving             6676       2768       0          122        0.41
+decoration          3001       40092      1          117        13.36
+mob_spawns          2663       109        0          23         0.04
+Sum                                                             21.10

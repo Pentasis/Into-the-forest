@@ -1,0 +1,3 @@
+#List of item ID which must be detected as torch
+torch-items = ["minecraft:torch", "minecraft:soul_torch"]
+

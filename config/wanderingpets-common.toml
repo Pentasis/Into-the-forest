@@ -1,0 +1,11 @@
+#Disables following for cats
+disableCatFollow = true
+#Disables following for wolves
+disableWolfFollow = true
+#Disables following for parrots
+disableParrotFollow = true
+#Allows pets to respawn with player debuff
+enablePetRespawn = false
+#Changes shift+right click behaviour to toggle following
+enableToggleFollow = true
+
