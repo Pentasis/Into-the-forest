@@ -1,1 +1,16 @@
 # Created by .ignore support plugin (hsz.mobi)
+!/logs/
+!/crash-reports/
+!/coremods/
+!/.mixin.out/
+!/local/
+!/mods/
+!/resourcepacks/
+!/saves/
+!/screenshots/
+!/server-resource-packs/
+!/shaderpacks/
+!/texturepacks/
+!/themes/
+!/XaeroWaypoints/
+!/XaeroWaypoints_BACKUP062020/
